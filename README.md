@@ -9,7 +9,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_taetaetae/)](https://www.instagram.com/_taetaetae/) 
 [![Daily DevBlog](https://img.shields.io/badge/website-%23.svg?&style=flat-square&&logo=www&logoColor=white&&link=http://daily-devblog.com)](http://daily-devblog.com) 
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.com)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaetaetae%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
