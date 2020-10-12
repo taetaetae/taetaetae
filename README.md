@@ -1,5 +1,4 @@
-[![taetaetae's github stats](https://github-readme-stats.vercel.app/api?username=taetaetae)](https://github.com/anuraghazra/github-readme-stats)
-
+![taetaetae's github stats](https://github-readme-stats.vercel.app/api?username=taetaetae&show_icons=true&theme=radical)
 
 <div align=center>
 	
